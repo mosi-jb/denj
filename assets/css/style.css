@@ -51,9 +51,9 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  /* border: 6px solid #1a1814;
+  border: 6px solid #1a1814;
   border-top-color: #cda45e;
-  border-bottom-color: #cda45e; */
+  border-bottom-color: #cda45e;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -99,14 +99,14 @@ h6 {
   line-height: 0;
 }
 
-.back-to-top:hover {
-  /* background: #cda45e; */
-  color: #1a1814;
-}
+/* .back-to-top:hover {
+  background: #1a1814;
+  color: ;
+} */
 
-.back-to-top:hover i {
+/* .back-to-top:hover i {
   color: #444444;
-}
+} */
 
 .back-to-top.active {
   visibility: visible;
@@ -604,7 +604,7 @@ h6 {
 
 #denj-anime .video-container {
   width: 100%;
-  height: 50vh;
+  height: 36vh;
   position: relative;
 }
 
@@ -624,7 +624,7 @@ h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 15vw;
+  font-size: 12vw;
   font-weight: bolder;
   mix-blend-mode: multiply;
   font-family: 'Raleway', sans-serif;
