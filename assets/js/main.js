@@ -186,7 +186,7 @@
 
       // Set default category
       menuIsotope.arrange({
-        filter: ".filter-pussy"
+        filter: ".filter-iranian-food"
       });
 
       menuFilters.forEach((el) => {
